@@ -1,0 +1,15 @@
+{
+  "model_name": "Iris Logistic Regression",
+  "training_timestamp": "2025-10-30T14:32:08.923453Z",
+  "best_params": {
+    "clf__C": 10.0,
+    "clf__penalty": "l2"
+  },
+  "train_best_score": "0.967",
+  "accuracy_score": 1.0,
+  "class_names": [
+    "setosa",
+    "versicolor",
+    "virginica"
+  ]
+}
